@@ -1,0 +1,31 @@
+{
+    "country": "Kenya",
+    "code": "KEN",
+    "counties": [
+      {
+        "name": "Nairobi",
+        "county_number": 47,
+        "capital": "Nairobi",
+        "governor": "Johnson Sakaja",
+        "sub_counties": [
+          {
+            "name": "Westlands",
+            "wards": [
+              {
+                "name": "Kangemi",
+                "locations": [
+                  {
+                    "name": "Kangemi Location",
+                    "sub_locations": [
+                      { "name": "Waruku" },
+                      { "name": "Kangemi Central" }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

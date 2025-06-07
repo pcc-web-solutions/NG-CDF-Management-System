@@ -1,0 +1,1 @@
+<img src="{{ asset('ngcdf-logo.png') }}" alt="NG-CDF Logo" {{ $attributes->merge(['class' => 'w-10 h-10']) }}>
