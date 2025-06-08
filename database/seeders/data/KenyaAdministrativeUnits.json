@@ -1,106 +1,104 @@
-[
-    {
-        "countries":[
-            {
-                "name":"Kenya",
-                "code":"KEN",
-                "iso_alpha3":"KEN",
-                "currency":"KES",
-                "timezone":"Africa/Nairobi",
-                "counties":[
-                    {
-                        "name":"Nairobi",
-                        "code":"047",
-                        "county_number":"47",
-                        "capital":"Nairobi",
-                        "governor":"Johnson Sakaja",
-                        "sub_counties":[
-                            {
-                                "name": "Westlands",
-                                "code": "NRB-001",
-                                "sub_county_office": "Westlands Sub-County Office, Waiyaki Way",
-                                "wards":[
-                                    {
-                                        "name": "Kitisuru",
-                                        "code": "047001",
-                                        "ward_number": 1,
-                                        "locations":[
-                                            {
-                                                "name": "Kitisuru",
-                                                "code": "Kitisuru",
-                                                "chief": null,
-                                                "sub_locations":[
-                                                    {
-                                                        "name": "Kitisuru Sub-location",
-                                                        "code": "Kitisuru",
-                                                        "assistant_chief": null,
-                                                        "villages":[
-                                                            {
-                                                                "name": "Old Kitisuru",
-                                                                "code": "Old Kitisuru"
-                                                            },
-                                                            {
-                                                                "name": "New Kitisuru",
-                                                                "code": "New Kitisuru"
-                                                            },
-                                                            {
-                                                                "name": "Kihingo Village",
-                                                                "code": "Kihingo Village"
-                                                            },
-                                                            {
-                                                                "name": "Magnolia Hills",
-                                                                "code": "Magnolia Hills"
-                                                            },
-                                                            {
-                                                                "name": "Kitisuru Springs",
-                                                                "code": "Kitisuru Springs"
-                                                            },
-                                                            {
-                                                                "name": "Kitisuru Country Homes",
-                                                                "code": "Kitisuru Country Homes"
-                                                            }
-                                                        ]
-                                                    },
-                                                    {
-                                                        "name": "Muringa",
-                                                        "code": "Muringa",
-                                                        "chief": null,
-                                                        "villages":[
-                                                            {
-                                                                "name": "Muringa Settlement",
-                                                                "code": null
-                                                            },
-                                                            {
-                                                                "name": "Mwamburi Farms",
-                                                                "code": null
-                                                            }
-                                                        ]
-                                                    },
-                                                    {
-                                                        "name": "Kabiro",
-                                                        "code": "Kabiro",
-                                                        "assistant_chief": null,
-                                                        "villages":[
-                                                            {
-                                                                "name": "Kabiro Estate",
-                                                                "code": null
-                                                            },
-                                                            {
-                                                                "name": "Nyumbani Gardens",
-                                                                "code": null
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
-]
+{
+    "countries":[
+        {
+            "name":"Kenya",
+            "code":"KEN",
+            "iso_alpha3":"KEN",
+            "currency":"KES",
+            "timezone":"Africa/Nairobi",
+            "counties":[
+                {
+                    "name":"Nairobi",
+                    "code":"047",
+                    "county_number":"47",
+                    "capital":"Nairobi",
+                    "governor":"Johnson Sakaja",
+                    "sub_counties":[
+                        {
+                            "name": "Westlands",
+                            "code": "NRB-001",
+                            "sub_county_office": "Westlands Sub-County Office, Waiyaki Way",
+                            "wards":[
+                                {
+                                    "name": "Kitisuru",
+                                    "code": "047001",
+                                    "ward_number": 1,
+                                    "locations":[
+                                        {
+                                            "name": "Kitisuru",
+                                            "code": "Kitisuru",
+                                            "chief": null,
+                                            "sub_locations":[
+                                                {
+                                                    "name": "Kitisuru Sub-location",
+                                                    "code": "Kitisuru",
+                                                    "assistant_chief": null,
+                                                    "villages":[
+                                                        {
+                                                            "name": "Old Kitisuru",
+                                                            "code": "Old Kitisuru"
+                                                        },
+                                                        {
+                                                            "name": "New Kitisuru",
+                                                            "code": "New Kitisuru"
+                                                        },
+                                                        {
+                                                            "name": "Kihingo Village",
+                                                            "code": "Kihingo Village"
+                                                        },
+                                                        {
+                                                            "name": "Magnolia Hills",
+                                                            "code": "Magnolia Hills"
+                                                        },
+                                                        {
+                                                            "name": "Kitisuru Springs",
+                                                            "code": "Kitisuru Springs"
+                                                        },
+                                                        {
+                                                            "name": "Kitisuru Country Homes",
+                                                            "code": "Kitisuru Country Homes"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Muringa",
+                                                    "code": "Muringa",
+                                                    "chief": null,
+                                                    "villages":[
+                                                        {
+                                                            "name": "Muringa Settlement",
+                                                            "code": null
+                                                        },
+                                                        {
+                                                            "name": "Mwamburi Farms",
+                                                            "code": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Kabiro",
+                                                    "code": "Kabiro",
+                                                    "assistant_chief": null,
+                                                    "villages":[
+                                                        {
+                                                            "name": "Kabiro Estate",
+                                                            "code": null
+                                                        },
+                                                        {
+                                                            "name": "Nyumbani Gardens",
+                                                            "code": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

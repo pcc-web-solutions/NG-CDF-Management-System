@@ -29,7 +29,7 @@
                 </flux:table.row>
             @empty
                 <flux:table.row>
-                    <flux:table.cell :colspan="3" class="text-center">No countries found.</flux:table.cell>
+                    <flux:table.cell :colspan="8" class="text-center">No countries found.</flux:table.cell>
                 </flux:table.row>
             @endforelse
         </flux:table.rows>
